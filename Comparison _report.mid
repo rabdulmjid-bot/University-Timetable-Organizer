@@ -1,0 +1,29 @@
+University Timetable Organizer and Conflict Detector
+
+1. Introduction
+
+Our project is a University Timetable Organizer and Conflict Detector using Python. It helps students organize their classes and find time conflicts.
+
+2. Our Original Code
+
+We wrote the original code using functions, loops, and if statements. We used separate variables to store class information and created a function to detect conflicts.
+
+3. Copilot Code
+
+GitHub Copilot created another version of our program. It used lists and dictionaries to store class information. It also used input validation and functions to organize the program.
+
+4. Improved Code
+
+We asked Copilot to improve its previous code. The improved version included more comments, better error handling, and more organized functions.
+
+5. Comparison
+
+* Our code uses numbers such as 900 to enter time.
+* Copilot uses the HH:MM format, such as 09:00.
+* Our code uses separate variables for each class.
+* Copilot uses lists and dictionaries.
+* The improved code has clearer functions and better input validation.
+
+6. Conclusion
+
+This project helped us understand how to use Python functions, loops, and conditions. We also learned how GitHub Copilot can help improve code. We learned that AI-generated code should be reviewed and compared with our own work.
